@@ -4,8 +4,12 @@ I'm a front-end developer with a passion for crafting captivating web experience
 With a combination of bootcamps, self-directed learning, and hands-on experience, I've developed a comprehensive understanding of front-end development. From HTML and CSS to JavaScript frameworks, I'm well-versed in creating engaging web interfaces that leave a lasting impression. 🚀
 
 
-![Static Badge](https://img.shields.io/badge/WEB_PORTFOLIO-%23FFa200?style=for-the-badge&logo=netlify&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=%23fff)
-
+<a href="https://russhenson.com/">
+<img src="https://img.shields.io/badge/WEB_PORTFOLIO-%23FFa200?style=for-the-badge&logo=netlify&logoColor=%23fff" alt="portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/russ-henson/">
+<img src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23fff" alt="linkedin" />
+</a>
 
 
 ## 🛠️ LANGUAGES AND TOOLS:
