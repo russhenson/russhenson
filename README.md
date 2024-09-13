@@ -14,12 +14,12 @@ With a combination of bootcamps, self-directed learning, and hands-on experience
 
 ## 🚀 STATS:
 <a href="">
-  <img height=200 width=350 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russhenson&theme=onedark&hide_border=true" />
+  <img height=200 width=400 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russhenson&theme=onedark&hide_border=true" />
 </a>
 
 
 <a href="">
-  <img height=200 width=390 align="center" src="https://github-readme-stats-nine-mu-21.vercel.app/api?username=russhenson&theme=onedark&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged_percentage" />
+  <img height=200 width=440 align="center" src="https://github-readme-stats-nine-mu-21.vercel.app/api?username=russhenson&theme=onedark&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged_percentage" />
 </a>
 <!-- <a href="">
   <img height=200 align="center" src="https://github-readme-stats-nine-mu-21.vercel.app/api/top-langs/?username=russhenson&theme=onedark&layout=compact&hide_border=true" />
